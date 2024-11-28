@@ -223,7 +223,3 @@ Seu backend é hospedado automaticamente no Supabase, e você não precisa fazer
    - Certifique-se de que você configurou corretamente as credenciais do Supabase no front-end.
 
 ---
-
-## **Licença**
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
